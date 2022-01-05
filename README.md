@@ -1,6 +1,6 @@
 ### Olá! Eu sou Wyslan Alves
 
--💻 Hoje Estudo as tecnologia do Front-End
+-💻 Hoje Estudo as tecnologia do Front-End | java
 
 <div align="center">
   <a href="https://github.com/wyslanalves">
