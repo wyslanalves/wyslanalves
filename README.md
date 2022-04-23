@@ -1,8 +1,12 @@
 ###<h1> Salve, Salve! Eu sou Wyslan Alves! <img src="https://raw.githubusercontent.com/kaueMarques/KaueMarques/master/hi.gif" width="30px"></h1>
 
 - 🔥 Desenvolvedor FullStack | Spring Boot | React | Angular
-- ✔ 
-- 👩‍💻 Todos os meus projetos estão disponíveis e, [🚨 <a href="">Portifólio em Construção]</a>()
+
+- ✔ Experiencia como fullstack na empresa <a href="https://ypcontrol.com/">Ypcontrol</a> como estagiário
+
+- 👩‍💻 Todos os meus projetos estão disponíveis e, [🚨 <a href="">Portifólio em Construção</a>]()
+
+- 💬 Respondo perguntas sobre **JavaScript, HTML5, CSS3, SQL, Java, JSP, Spring Boot,**
 
 
 <div align="center">
