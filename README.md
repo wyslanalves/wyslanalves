@@ -23,7 +23,7 @@
   <a href="https://github.com/wyslanalves">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=wyslanalves&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wyslanalves&layout=compact&langs_count=7&theme=dracula"/>
-</div><br>
+</div>
 
   ## 📲 &nbsp;Contatos
 <div>
