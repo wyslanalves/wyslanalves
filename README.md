@@ -17,6 +17,9 @@
 </div>
 <br><br>
   ## 🛠 &nbsp;Tecnologias que Domino
+  <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  
+  
  <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"">
