@@ -2,7 +2,7 @@
 
 - 🔥 Desenvolvedor FullStack | Spring Boot | React | Angular
 
-- ✔ Experiencia como fullstack na empresa <a href="https://ypcontrol.com/">Ypcontrol</a> como estagiário
+- ✔ Experiência estagiário fullstack na empresa <a href="https://ypcontrol.com/">Ypcontrol</a>
 
 - 👩‍💻 Todos os meus projetos estão disponíveis e, [🚨 <a href="">Portifólio em Construção</a>]()
 
