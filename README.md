@@ -18,7 +18,7 @@
   <img align="center" alt="BOOTSTRAP" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img align="center" alt="REACT" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
   <img align="center" alt="JAVASCRIPT" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-</div>
+</div><br><br>
 <div align="center">
   <a href="https://github.com/wyslanalves">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=wyslanalves&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
