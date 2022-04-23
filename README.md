@@ -1,6 +1,9 @@
 ###<h1> Salve, Salve! Eu sou Wyslan Alves! <img src="https://raw.githubusercontent.com/kaueMarques/KaueMarques/master/hi.gif" width="30px"></h1>
 
--💻 Hoje Estudo as tecnologia do Front-End | java
+- 🔥 Desenvolvedor FullStack | Spring Boot | React | Angular
+- ✔ 
+- 👩‍💻 Todos os meus projetos estão disponíveis e, [🚨 <a href="">Portifólio em Construção]</a>()
+
 
 <div align="center">
   <a href="https://github.com/wyslanalves">
