@@ -4,8 +4,7 @@
 
 - ✔ Experiência, estagiário fullstack na empresa <a target="_blank" href="https://ypcontrol.com/">Ypcontrol</a>
 
-- 👩‍💻 Todos os meus projetos estão disponíveis e, [🚨 <a target="_blank" href="https://https://portfolio-wyslan.web.app/
-">Portifólio em Construção</a>]()
+- 👩‍💻 Todos os meus projetos estão disponíveis e, [🚨 <a target="_blank" href="https://portfolio-wyslan.web.app/">Portifólio em Construção</a>]()
 
 - 💬 Respondo perguntas sobre **JavaScript, HTML5, CSS3, SQL, Java, JSP, Spring Boot**
 
