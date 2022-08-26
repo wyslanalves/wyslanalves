@@ -3,6 +3,8 @@
 - 🔥 Desenvolvedor FullStack | Spring Boot | React | Angular
 
 - ✔ Experiência, estagiário fullstack na empresa <a target="_blank" href="https://ypcontrol.com/">Ypcontrol</a>
+- ✔ Experiência, estagiário front-end na empresa <a target="_blank" href="https://ypcontrol.com/">WhileTrue</a>
+
 
 - 👩‍💻 Todos os meus projetos estão disponíveis e, [🚨 <a target="_blank" href="https://portfolio-wyslan.web.app/">Portifólio em Construção</a>]()
 
