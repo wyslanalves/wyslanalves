@@ -1,8 +1,7 @@
-<h1 align="left">Salve, Salve! Eu sou o Wyslan Alves 👋</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Desenvolvedor+FullStack+%F0%9F%94%A5;Java+%7C+Spring+Boot+%7C+React+%7C+Angular;Sempre+aprendendo+algo+novo+%F0%9F%9A%80&center=true&width=500&height=45&color=36BCF7&vCenter=true&size=22" />
-</p>
+<h1 align="left">
+  Salve, Salve!
+  <img src="https://readme-typing-svg.demolab.com/?lines=Eu+sou+o+Wyslan+Alves+%F0%9F%91%8B;Desenvolvedor+FullStack+%F0%9F%94%A5;Java+%7C+Spring+Boot+%7C+React+%7C+Angular;Sempre+aprendendo+algo+novo+%F0%9F%9A%80&center=false&width=500&height=45&vCenter=true&size=22" />
+</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=wyslanalves&label=Visualiza%C3%A7%C3%B5es&color=blueviolet&style=flat" />
