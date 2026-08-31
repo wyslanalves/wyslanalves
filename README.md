@@ -1,4 +1,4 @@
-<h1 align="center">Salve, Salve! Eu sou o Wyslan Alves 👋</h1>
+<h1 align="left">Salve, Salve! Eu sou o Wyslan Alves 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Desenvolvedor+FullStack+%F0%9F%94%A5;Java+%7C+Spring+Boot+%7C+React+%7C+Angular;Sempre+aprendendo+algo+novo+%F0%9F%9A%80&center=true&width=500&height=45&color=36BCF7&vCenter=true&size=22" />
