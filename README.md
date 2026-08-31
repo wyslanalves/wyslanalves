@@ -3,7 +3,7 @@
 - 💬 Respondo perguntas sobre **JavaScript, HTML5, CSS3, SQL, Java, JSP, Spring Boot**
 
 ## 🛠 &nbsp;Tecnologias que Domino
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,icons?i=aws)](https://skillicons.dev)
+<p align="left"> <img src="https://skillicons.dev/icons?i=html,css,js,java,spring,angular,bootstrap,mysql,git" /> </p>
 
   ## 📲 &nbsp;Contatos
 <div>
