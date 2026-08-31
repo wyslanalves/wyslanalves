@@ -1,4 +1,4 @@
-<h1 align="left" style="display:flex; align-items:center; gap:10px;">
+<h1 align="left" style="display:flex; align-items:center;">
   Salve, Salve!
   <img align="center" style="vertical-align:middle;" src="https://readme-typing-svg.demolab.com/?font=Segoe+UI&weight=700&size=32&pause=1000&color=58A6FF&vCenter=true&width=650&height=40&lines=Eu+sou+o+Wyslan+Alves+%F0%9F%91%8B;Desenvolvedor+FullStack+%F0%9F%94%A5;Java+%7C+Spring+Boot+%7C+React+%7C+Angular;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" />
 </h1>
