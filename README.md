@@ -1,12 +1,4 @@
-<h1> Salve, Salve! Eu sou Wyslan Alves! <img src="https://raw.githubusercontent.com/kaueMarques/KaueMarques/master/hi.gif" width="30px"></h1>
-
-- 🔥 Desenvolvedor FullStack | Spring Boot | React | Angular
-
-- ✔ Experiência, estagiário fullstack na empresa <a target="_blank" href="https://ypcontrol.com/">Ypcontrol</a>
-- ✔ Experiência, estagiário front-end na empresa <a target="_blank" href="https://ypcontrol.com/">WhileTrue</a>
-
-
-- 👩‍💻 Todos os meus projetos estão disponíveis e, [🚨 <a target="_blank" href="https://portfolio-wyslan.web.app/">Portifólio em Construção</a>]()
+<h1 align="center">Salve, Salve! Eu sou o Wyslan Alves 👋</h1> <p align="center"> <img src="https://readme-typing-svg.demolab.com/?lines=Desenvolvedor+FullStack+%F0%9F%94%A5;Java+%7C+Spring+Boot+%7C+React+%7C+Angular;Sempre+aprendendo+algo+novo+%F0%9F%9A%80&center=true&width=500&height=45&color=36BCF7&vCenter=true&size=22" /> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=wyslanalves&label=Visualiza%C3%A7%C3%B5es&color=blueviolet&style=flat" /> </p>
 
 - 💬 Respondo perguntas sobre **JavaScript, HTML5, CSS3, SQL, Java, JSP, Spring Boot**
 
