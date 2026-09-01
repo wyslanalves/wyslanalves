@@ -1,6 +1,19 @@
-<h1 align="left" style="display:flex; align-items:center;">
+<h1 style="
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  border-bottom: none;
+  font-size: 32px;
+  font-weight: 700;
+  margin: 0;
+  line-height: 1;          /* Remove espaço extra acima/abaixo */
+  height: 40px;            /* Mesma altura da imagem */
+">
   Salve, Salve!
-  <img align="center" src="https://readme-typing-svg.demolab.com/?font=Segoe+UI&weight=700&size=32&pause=1000&color=58A6FF&vCenter=true&width=650&height=40&lines=Eu+sou+o+Wyslan+Alves+%F0%9F%91%8B;Desenvolvedor+FullStack+%F0%9F%94%A5;Java+%7C+Spring+Boot+%7C+Angular+%7C+JPA+%7C+PostgreSQL;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" />
+  <img 
+    src="https://readme-typing-svg.demolab.com/?font=Segoe+UI&weight=700&size=32&pause=1000&color=58A6FF&vCenter=true&width=650&height=40&lines=Eu+sou+o+Wyslan+Alves+%F0%9F%91%8B;Desenvolvedor+FullStack+%F0%9F%94%A5;Java+%7C+Spring+Boot+%7C+React+%7C+Angular;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" 
+    style="height: 40px; width: auto; display: block;"
+  />
 </h1>
 
 ---
