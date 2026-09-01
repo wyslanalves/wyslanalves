@@ -6,9 +6,9 @@
 <img src="https://readme-typing-svg.demolab.com/?font=Segoe+UI&weight=600&size=28&pause=1000&color=58A6FF&vCenter=true&width=600&height=50&lines=Desenvolvedor+FullStack+%F0%9F%94%A5;Java+%7C+Spring+Boot+%7C+Hibernate%2FJPA;PostgreSQL+%7C+Docker+%7C+APIs+REST;CI%2FCD+%7C+Angular" />
 </div>
 
-<table style="border: none; border-collapse: collapse;">
+<table border="0" cellspacing="0" cellpadding="0">
 <tr>
-<td width="60%" valign="top" style="border: none;">
+<td width="60%" valign="top">
 
 Sou desenvolvedor Web de nível intermediário, capaz de construir uma presença digital do zero — desde a concepção, navegação, layout até a programação. Tenho experiência escrevendo código bem estruturado, testável e eficiente, seguindo as melhores práticas atuais de desenvolvimento Web.
 
@@ -17,13 +17,11 @@ Aprendo rápido, sou dedicado e trabalho bem em equipe, com domínio de diversas
 Possuo boas habilidades de design e programação, além da capacidade de transformar requisitos em aplicações online funcionais e atraentes.
 
 </td>
-<td width="40%" valign="top" align="center" style="border: none;">
+<td width="40%" valign="top" align="center">
 <img src="https://media.giphy.com/media/TFPdmm3rdzeZ0kP3zG/giphy.gif" width="100%" alt="Glitch Internet Computer"/>
 </td>
 </tr>
 </table>
-Possuo boas habilidades de design e programação, além da capacidade de transformar requisitos em aplicações online funcionais e atraentes.
-</p>
 
 ---
 
