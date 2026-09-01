@@ -3,10 +3,6 @@
   <img align="center" style="vertical-align:middle;" src="https://readme-typing-svg.demolab.com/?font=Segoe+UI&weight=700&size=32&pause=1000&color=58A6FF&vCenter=true&width=650&height=40&lines=Eu+sou+o+Wyslan+Alves+%F0%9F%91%8B;Desenvolvedor+FullStack+%F0%9F%94%A5;Java+%7C+Spring+Boot+%7C+React+%7C+Angular;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" />
 </h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=wyslanalves&label=Visualiza%C3%A7%C3%B5es&color=blueviolet&style=flat" />
-</p>
-
 ---
 
 ### 🚀 Sobre mim
